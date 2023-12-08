@@ -1,4 +1,5 @@
-# Creating a Telegram bot and an executable file
+
+# Installation
 
 [1] Creating a Telegram Bot
     -# Create a Telegram bot using @BotFather in Telegram.
